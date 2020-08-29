@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="rest_framework_duration_iso_field",
-    version="0.0.1",
+    version="0.0.2",
     author="otto001",
     author_email="",
     description="A DRF serializer field for basic iso8601 duration strings",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/otto001/rest_framework_duration_iso_field",
     packages=("rest_framework_duration_iso_field",),
     classifiers=[
         "Programming Language :: Python :: 3",

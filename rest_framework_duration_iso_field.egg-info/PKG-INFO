@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: rest-framework-duration-iso-field
-Version: 0.0.1
+Version: 0.0.2
 Summary: A DRF serializer field for basic iso8601 duration strings
-Home-page: https://github.com/pypa/sampleproject
+Home-page: https://github.com/otto001/rest_framework_duration_iso_field
 Author: otto001
 Author-email: 
 License: UNKNOWN
